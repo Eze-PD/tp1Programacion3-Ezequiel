@@ -7,7 +7,7 @@
 
 ### 📌 Grupo: BB  
 **Integrantes:**
-- Sanche, David  
+- Sanchez, David  
 - Ovejero, Yamila Mailen  
 - Conte Garcia, Emanuel  
 - Medina, Ricardo Daniel  
