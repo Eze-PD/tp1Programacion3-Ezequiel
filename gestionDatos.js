@@ -2,7 +2,7 @@
 // Simulación de base de datos de producto usando Arrays y Node.js
 
 // Grupo BB - Integrantes:
-// Sanche, David
+// Sanchez, David
 // Ovejero, Yamila Mailen
 // Conte Garcia, Emanuel
 // Medina, Ricardo Daniel
@@ -25,7 +25,7 @@ console.log("3) Cuarto producto:", productos[3].nombre);
 
 // 3. Recorrido del Array
 console.log("\n4) Recorrido con for...of:");
-for (let producto of productos) {
+for (producto of productos) {
   console.log(`Nombre: ${producto.nombre}, Precio: $${producto.precio}`);
 }
 
