@@ -48,9 +48,6 @@ Contiene la implementación de la gestión de productos utilizando arrays.
 - Crear un array con solo los nombres de los productos.
 - Buscar un producto por ID.
 - Ordenar productos por precio en orden decreciente.
-- Instrucciones para Ejecutar el Proyecto
-- Clonar o descargar el repositorio del proyecto.
-- Navegar a la carpeta del proyecto en la terminal.
 
 ### ▶️ Instrucciones de Ejecución
 1. Clonar o descargar el repositorio del proyecto.  
@@ -67,7 +64,6 @@ Este trabajo práctico ha permitido a los integrantes del grupo aplicar y consol
 
 ### 📅 Fecha de Entrega: 
 Viernes 15 de Agosto de 2025
-
 
 ### 🙌 Agradecimientos: 
 Agradecemos a nuestros docentes y compañeros por su apoyo y colaboración durante el desarrollo de este trabajo práctico.
