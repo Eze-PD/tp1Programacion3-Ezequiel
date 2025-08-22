@@ -1,59 +1,57 @@
 # Facultad de Ciencias de la Administración – UNER  
-## Programación III - TP 1: JS Arrays  
-**2do Cuatrimestre 2025**  
+## Programación III - TP 1: JavaScript y Arrays  
+**2° Cuatrimestre 2025**  
 **Tecnicatura Universitaria en Desarrollo Web**  
 
 ---
 
-### 📌 Grupo: BB  
-**Integrantes:**
-- Sanchez, David  
-- Ovejero, Yamila Mailen  
-- Conte Garcia, Emanuel  
-- Medina, Ricardo Daniel  
-- Pereyra Diaz, Ezequiel  
-- Villalba Olmedo, Delcy Adalis  
+### 📌 Alumno:  
+**Pereyra Diaz, Ezequiel**
 
 ---
 
-## 📜 Descripción del Proyecto
-Este trabajo práctico tiene como objetivo aplicar los conceptos de arrays en JavaScript, utilizando sus métodos comunes y avanzados para simular la gestión de una pequeña base de datos de productos. Se implementaron operaciones CRUD (Crear, Leer, Actualizar, Eliminar) y otras transformaciones utilizando los métodos de arrays, ejecutando el código en el entorno Node.js.
+## 📜 Descripción del Proyecto  
+Este trabajo práctico individual tiene como propósito aplicar y afianzar los conocimientos sobre el uso de arrays en JavaScript. Se trabaja con operaciones CRUD (Crear, Leer, Actualizar, Eliminar) simulando una pequeña base de datos de productos, utilizando métodos nativos del lenguaje.  
+Todo el código fue desarrollado y probado en entorno Node.js.
 
 ---
 
-## ⚙️ Requisitos Previos
-#### Configuración Inicial
+## ⚙️ Requisitos Previos  
 **Instalación de:**
-- Node.js (versión 16 o superior recomendada)  
-- Editor de código (VS Code, Sublime Text, etc.)
+- Node.js (recomendado: v16 o superior)  
+- Editor de código (Visual Studio Code, Sublime, etc.)
 
 ---
 
-## 📂 Estructura del Proyecto
+## 📂 Estructura del Proyecto  
 
-- **Archivo principal:** `gestionDatos.js`  
-Contiene la implementación de la gestión de productos utilizando arrays.
+- `gestionDatos.js`: archivo principal que contiene la lógica de gestión de productos con arrays.
 
-## 📜 Funcionalidades Implementadas
-### 🛠 Operaciones Básicas:
-- Impresión de la longitud total del array de productos.
-- Acceso a elementos específicos del array.
+---
 
-### 🛠 Recorrido del Array:
-- Uso de bucles for...of y forEach() para imprimir información de los productos.
+## 📜 Funcionalidades Desarrolladas
 
-### 🛠 Manipulación de Arrays:
-- Agregar y eliminar elementos del array.
-- Filtrar productos con stock disponible.
-- Crear un array con solo los nombres de los productos.
-- Buscar un producto por ID.
-- Ordenar productos por precio en orden decreciente.
+### 🛠 Operaciones con Arrays:
+- Obtener y mostrar la longitud del array.
+- Acceder a elementos individuales por índice.
+- Recorrer el array utilizando bucles (`for...of`, `forEach`).
+- Agregar y eliminar productos.
+- Filtrar productos por disponibilidad de stock.
+- Mapear los nombres de todos los productos.
+- Buscar productos por ID.
+- Ordenar productos por precio (de mayor a menor).
 
-### ▶️ Instrucciones de Ejecución
-1. Clonar o descargar el repositorio del proyecto.  
-2. Abrir la carpeta en la terminal.  
-3. Ejecutar el siguiente comando para correr el script:
-  `node gestionDatos.js`
+---
+
+## ▶️ Instrucciones de Ejecución
+
+1. Clonar o descargar este repositorio.
+2. Abrir la terminal dentro de la carpeta del proyecto.
+3. Ejecutar:
+
+```bash
+node gestionDatos.js
+
 
 ### 🔹 Condiciones de Entrega
 Este trabajo práctico fue realizado en forma grupal, cumpliendo con el mínimo de 4 y máximo de 6 integrantes.
