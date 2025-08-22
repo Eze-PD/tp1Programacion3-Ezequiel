@@ -54,10 +54,7 @@ Todo el código fue desarrollado y probado en entorno Node.js.
 
 1. Clonar o descargar este repositorio.
 2. Abrir la terminal dentro de la carpeta del proyecto.
-3. Ejecutar:
-
-```bash
-node gestionDatos.js
+3. Ejecutar.
 
 
 ### 🔹 Condiciones de Entrega
