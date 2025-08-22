@@ -1,13 +1,19 @@
 // TP 1 - Programación III - Arrays en JavaScript (Node.js)
-// Simulación de base de datos de producto usando Arrays y Node.js
+// Simulación de gestión de productos usando Arrays y Node.js
+
+// Facultad de Ciencias de la Administración – UNER
+// Tecnicatura Universitaria en Desarrollo Web
+// 2° Cuatrimestre 2025
 
 // Grupo BB - Integrantes:
-// Sanchez, David
-// Ovejero, Yamila Mailen
-// Conte Garcia, Emanuel
-// Medina, Ricardo Daniel
-// Pereyra Diaz, Ezequiel
-// Villalba Olmedo, Delcy Adalis
+// - Sanchez, David
+// - Ovejero, Yamila Mailen
+// - Conte Garcia, Emanuel
+// - Medina, Ricardo Daniel
+// - Pereyra Diaz, Ezequiel
+// - Villalba Olmedo, Delcy Adalis
+
+// ----------------------------------------------------------
 
 // 1. Configuración Inicial
 let productos = [
@@ -18,14 +24,16 @@ let productos = [
   { id: 5, nombre: "Webcam HD", precio: 8000, stock: 7 },
 ];
 
+// ----------------------------------------------------------
 // 2. Operaciones Básicas y Acceso
 console.log("1) Cantidad total de productos:", productos.length);
 console.log("2) Segundo producto:", productos[1].nombre);
 console.log("3) Cuarto producto:", productos[3].nombre);
 
+// ----------------------------------------------------------
 // 3. Recorrido del Array
 console.log("\n4) Recorrido con for...of:");
-for (producto of productos) {
+for (const producto of productos) {
   console.log(`Nombre: ${producto.nombre}, Precio: $${producto.precio}`);
 }
 
@@ -34,7 +42,9 @@ productos.forEach((p) => {
   console.log(`Producto: ${p.nombre}, Precio: $${p.precio}`);
 });
 
+// ----------------------------------------------------------
 // 4. Manipulación de Arrays
+
 console.log("\n6) Agregar dos productos al final (push):");
 productos.push(
   { id: 6, nombre: "Parlantes Bluetooth", precio: 15000, stock: 4 },
