@@ -5,13 +5,15 @@
 
 ---
 
-### 📌 Grupo BB, integrado por: ![alt text](image.png) 
-**Sanchez, David                👨🏻‍💻**
-**Villalba Olmedo, Delcy Adalis 👨🏻‍💻**
-**Ovejero, Yamila Mailen        👨🏻‍💻**
-**Conte Garcia, Emanuel         👨🏻‍💻**
-**Medina, Ricardo Daniel        👨🏻‍💻**
-**Pereyra Diaz, Ezequiel        👨🏻‍💻**
+### 📌 Grupo BB, integrado por:
+
+- 👨🏻‍💻 **Sanchez, David**
+- 👨🏻‍💻 **Villalba Olmedo, Delcy Adalis**
+- 👨🏻‍💻 **Ovejero, Yamila Mailen**
+- 👨🏻‍💻 **Conte Garcia, Emanuel**
+- 👨🏻‍💻 **Medina, Ricardo Daniel**
+- 👨🏻‍💻 **Pereyra Diaz, Ezequiel**
+
 
 ---
 
