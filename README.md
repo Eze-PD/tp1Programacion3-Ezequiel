@@ -18,7 +18,7 @@
 ---
 
 ## 📜 Descripción del Proyecto  
-Este trabajo práctico individual tiene como propósito aplicar y afianzar los conocimientos sobre el uso de arrays en JavaScript. Se trabaja con operaciones CRUD (Crear, Leer, Actualizar, Eliminar) simulando una pequeña base de datos de productos, utilizando métodos nativos del lenguaje.  
+Este trabajo práctico tiene como propósito aplicar y afianzar los conocimientos sobre el uso de arrays en JavaScript. Se trabaja con operaciones CRUD (Crear, Leer, Actualizar, Eliminar) simulando una pequeña base de datos de productos, utilizando métodos nativos del lenguaje.  
 Todo el código fue desarrollado y probado en entorno Node.js.
 
 ---
